@@ -1405,6 +1405,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-16",
           "_params": {
             "imageSize": "38",
@@ -1451,15 +1459,7 @@
           },
           "title": "Bishop Freddie B. Marshall",
           "text": "For over 26 years he has lead the Christ Cathedral Church of Deliverance as its founding and senior pastor. Building lives and securing spiritual legacy and identity through the preaching and teaching of the Gospel of Jesus Christ. By being an example of endurance and restoration, Bishop Freddie B. Marshall preaches a strong and declarative message of Grace and repentance, admonishing all to embrace their individual process of growth, maturity and awareness in Christ.<br> <br>As a man of faith, Bishop is an example that if you believe God, you are assured to receive whatever you expect. His  initial studies began in the local school system of Forsyth County, Winston-Salem, NC. He continued his education at North Carolina Central University in Durham, NC, earning a B.A. in Psychology. He even furthered his educational journey by completing his Masters of Divinity (M. Div.) Degree with a concentration in Organizational Management and Leadership from Southwest Baptist Seminary. Most recently, Bishop has earned his Doctorate of Philosophy (Ph.D.) Degree in Cognitive Studies from New Charter University.  As a recipient of an honorary degree, and several educational certifications and recognitions, he has been intentional about his studies, and this has prepared him to remain a relevant voice to the Kingdom across several decades of church leadership and transition. As a trained and educated episcopate, he is an apostolic voice of preparation and a proficient Catechist who is sought after nationwide  as an instructor, trainer and mentor. As an author, he has penned several works that are currently used to assist ministry leaders in their continued  service to the modern church. The Bishop has been and continues to be invited internationally as a voice that matters to this generation.<br> <br>He enjoys life with his wife Mrs. Azaviea Brown Marshall, who has brought healing and wholeness into his life and that of his family and ministries. He is proud of his sons who are all ministry servant leaders and his goddaughters who have all developed their own relationships and identities with The Lord and the Church of Jesus Christ.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1664,7 +1664,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"GCOD.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Greater Church of Deliverance&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Presidium.html\">Presidium</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Membership.html\">Membership</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Upcoming.html\">Upcoming<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Giving.html\">Giving<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"GCOD.html#contacts3-5\">Contact<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"GCOD.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Presidium.html\">Presidium</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Membership.html\">Membership</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Upcoming.html\">Upcoming<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Giving.html\">Giving<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"GCOD.html#contacts3-5\">Contact<br></a></li>"
         }
       ]
     }
