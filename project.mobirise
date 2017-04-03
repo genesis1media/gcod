@@ -51,7 +51,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -380,7 +380,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -421,7 +421,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -654,7 +654,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -695,7 +695,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -964,7 +964,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -1005,7 +1005,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1052,7 +1052,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/17522790-1372742636116097-6163494675074033058-n-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17522790-1372742636116097-6163494675074033058-n-2000x2500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17522790_1372742636116097_6163494675074033058_n-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1062,7 +1062,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/17759869-10211331622579785-7007853875389044351-n-2000x1429-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17759869-10211331622579785-7007853875389044351-n-2000x1429.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17759869_10211331622579785_7007853875389044351_n-2000x1429.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1294,7 +1294,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -1686,7 +1686,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
