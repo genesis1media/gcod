@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "Upcoming.html",
+    "currentPage": "GCOD.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -758,7 +758,7 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "If you are a member of GCOD or a visitor and would like to sow into GCOD, please select the link.",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
