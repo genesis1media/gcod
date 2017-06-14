@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "Membership.html",
+    "currentPage": "Videos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -139,11 +139,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/unnamed-4-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/unnamed-4-2000x3000.jpg",
-                "caption": "Type caption here",
+                "caption": "Apostle Wade Jackson, Dean of the College of Bishops and Apostles",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": true,
             "filter": false,
             "bgColor": "#000000",
