@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "GCOD.html",
+    "currentPage": "Membership.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -88,6 +88,12 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          },
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -153,13 +159,7 @@
           },
           "_anchor": "gallery3-r",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center",
-              "font-size": "12px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -437,19 +437,19 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
           "_anchor": "content2-n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">Are you looking for a fellowship to be a part of to call home. Consider joining the reformation of the <b>Greater Church of Deliverance</b>. Please fill out our form below and we will be in contact with you.&nbsp;</span></blockquote>",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
+          "text": "<blockquote><span style=\"font-style: normal;\">Are you looking for a denomination to be a part of to call home. Consider joining the reformation of the <b>Greater Church of Deliverance</b>. Please fill out our form below and we will be in contact with you.&nbsp;</span></blockquote>"
         },
         {
           "_tags": [
@@ -740,6 +740,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-k",
           "_params": {
             "imageSize": "38",
@@ -782,12 +787,7 @@
           },
           "title": "If you are a member of GCOD or a visitor and would like to sow into GCOD, please select the link.",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1530,6 +1530,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-19",
           "_params": {
             "imageSize": "62",
@@ -1575,13 +1580,8 @@
             }
           },
           "title": "Join us for our 2017 Holy Convocation at our Reformation Headquarters.",
-          "text": "Speakers and line up of our services will be updated &nbsp;soon. Early registration is now open . Register by clicking on&nbsp;the link below.<br><br><b>Registration Fee:</b><br>$60- now until August 1<br>$75 after August 1<br>$20 for all youth under 17<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://fs26.formsite.com/greaterchurchofdeliverance/form2/index.html?1497449656540\" data-toolbar=\"-mbrBtnMove\">Register</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "text": "Speakers and line up of our services will be updated &nbsp;soon. Early registration is now open . Register by clicking on&nbsp;the link below.<br><br><b>Registration Fee:</b><br>$40- now until August 1<br>$50 after August 1<br>$20 for all youth under 17<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://fs26.formsite.com/greaterchurchofdeliverance/form2/index.html?1497449656540\" data-toolbar=\"-mbrBtnMove\">Register</a>"
         },
         {
           "_styles": {
@@ -1752,7 +1752,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
