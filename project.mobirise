@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "GCOD.html",
+    "currentPage": "Videos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -51,7 +51,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -80,7 +80,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "The Presidium of GCOD is the leadership of this reformation that oversees the works of the GCOD and its leadership."
+          "text": "The Presidium of GCOD is the leadership of this reformation that oversees the works of the GCOD and its leadership.&nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -97,73 +97,50 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x3000.jpg",
+                "caption": "ArchBishop Freddie B. Marshall, Metropolitan/Presiding Prelate",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x3000.jpg",
+                "caption": "Bishop David Callands,<br>Executive Vice Presiding Prelate",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2-2000x3000.jpg",
+                "caption": "Bishop Edward Greenlee, Jr.<br>Second Vice Presiding Prelate",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-3-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-3-2000x3000.jpg",
+                "caption": "Bishop Cassandra Smith,<br>Secretary-General",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-4-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-4-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
               }
             ],
             "spacing": 1,
@@ -176,7 +153,13 @@
           },
           "_anchor": "gallery3-r",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_tags": [
@@ -236,7 +219,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "336.727.3253",
           "media2": {
             "iconFont": {
               "active": true,
@@ -256,10 +239,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -308,7 +291,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
         },
         {
           "_styles": {
@@ -380,7 +363,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -421,7 +404,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -474,10 +457,10 @@
               "color": "#b8312f"
             }
           },
-          "_anchor": "contacts3-b",
+          "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -489,10 +472,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/gcod-265x265.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -510,7 +497,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "336.727.3253",
           "media2": {
             "iconFont": {
               "active": true,
@@ -530,10 +517,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -582,7 +569,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
         },
         {
           "_styles": {
@@ -654,7 +641,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -695,7 +682,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -784,10 +771,10 @@
               "color": "#b8312f"
             }
           },
-          "_anchor": "contacts3-h",
+          "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -799,10 +786,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/gcod-265x265.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -820,7 +811,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "336.727.3253",
           "media2": {
             "iconFont": {
               "active": true,
@@ -840,10 +831,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -892,7 +883,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
         },
         {
           "_styles": {
@@ -964,7 +955,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -1005,7 +996,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1051,20 +1042,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17522790-1372742636116097-6163494675074033058-n-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17522790_1372742636116097_6163494675074033058_n-2000x2500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17759869-10211331622579785-7007853875389044351-n-2000x1429-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17759869_10211331622579785_7007853875389044351_n-2000x1429.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "1",
@@ -1078,19 +1059,6 @@
           "_anchor": "gallery3-17",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-w",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"></a>  "
         },
         {
           "_tags": [
@@ -1114,10 +1082,10 @@
               "color": "#b8312f"
             }
           },
-          "_anchor": "contacts3-e",
+          "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1129,10 +1097,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/gcod-265x265.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -1150,7 +1122,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "336.727.3253",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1170,10 +1142,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -1208,6 +1180,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"></a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "footer1",
           "_anchor": "footer1-f",
           "_params": {
@@ -1222,7 +1207,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
         },
         {
           "_styles": {
@@ -1294,7 +1279,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
@@ -1397,6 +1382,59 @@
           "text": "<p>Welcome to the Greater Church of Deliverance Website.&nbsp;</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-19",
+          "_params": {
+            "imageSize": "62",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/unnamed-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1416,7 +1454,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "Our Founder/<br>Presiding Prelate of GCOD<br>",
+          "title": "Our Founder/Presiding Prelate of GCOD<br>",
           "meta": ""
         },
         {
@@ -1435,7 +1473,7 @@
           "_anchor": "msg-box5-16",
           "_params": {
             "imageSize": "38",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1542,7 +1580,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "336.727.3253",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1562,10 +1600,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -1614,7 +1652,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Greater Church of Deliverance, Inc."
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
         },
         {
           "_styles": {
@@ -1686,7 +1724,367 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/13529167_10208755801945879_7915476095425432203_n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "GCOD.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"GCOD.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Greater Church of Deliverance&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"GCOD.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Presidium.html\">Presidium</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Membership.html\">Membership</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Upcoming.html\">Upcoming<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Giving.html\">Giving<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"GCOD.html#contacts3-5\">Contact<br></a></li>"
+        }
+      ]
+    },
+    "Videos.html": {
+      "settings": {
+        "title": "Videos",
+        "meta_descr": "Videos of our past Convocations and Services"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gcod-265x265.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<p>Videos</p>",
+          "text": "<p><b>Preview videos of our Presiding Prelate in ministry and videos of our previous GCOD Holy Convocation services We look forward to seeing you at Holy Convocation 2017!</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Creative",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=9WLHq-pbKSY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-36-51.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=6YgFbm654hk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-48-19.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=B6YQKjIu2OA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-35-22.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=eX-0Ro_ze6Y",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-37-41.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=00F6lKPLgJk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-50-34.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=-qQAVsGj9cg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-36-10.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=b9ZApwuNzdU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-14-07-43-07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "color": "#b8312f"
+            },
+            "P": {
+              "color": "#28324e"
+            },
+            "H4": {
+              "color": "#232323"
+            },
+            "STRONG": {
+              "color": "#232323"
+            },
+            "LI": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts3-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gcod-265x265.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "336.727.3253",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kareyheyward@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Greater Church of Deliverance."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1c",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "GCOD.html",
