@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -505,9 +506,13 @@ h6,
   color: #b8312f!important;
 }
 
+
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
   color: #fff;
+}
+#content2-n SPAN {
+  font-family: 'Lato', sans-serif;
 }
 #contacts3-5 .list-group-text {
   color: #b8312f;

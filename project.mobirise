@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "Videos.html",
+    "currentPage": "Membership.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -443,7 +443,26 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">Are you looking for a fellowship to be a part of to call home. Consider joining the reformation of the Greater Church of Deliverance.</span></blockquote>"
+          "text": "<blockquote><span style=\"font-style: normal;\">Are you looking for a fellowship to be a part of to call home. Consider joining the reformation of the <b>Greater Church of Deliverance</b>. Please fill out our form below and we will be in contact with you.&nbsp;</span></blockquote>",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://fs26.formsite.com/greaterchurchofdeliverance/form1/index.html?1497444850755\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Membership</a> "
         },
         {
           "_tags": [
