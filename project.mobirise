@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GCOD",
-    "currentPage": "Videos.html",
+    "currentPage": "GCOD.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1575,8 +1575,8 @@
             }
           },
           "title": "Join us for our 2017 Holy Convocation at our Reformation Headquarters.",
-          "text": "Speakers and line up of our services will be updated &nbsp;soon. Early registration is now open . Register by clicking on&nbsp;the link below",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Speakers and line up of our services will be updated &nbsp;soon. Early registration is now open . Register by clicking on&nbsp;the link below.<br><br><b>Registration Fee:</b><br>$60- now until August 1<br>$75 after August 1<br>$20 for all youth under 17<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://fs26.formsite.com/greaterchurchofdeliverance/form2/index.html?1497449656540\" data-toolbar=\"-mbrBtnMove\">Register</a>",
           "_styles": {
             "H3": {
               "font-size": "36px"
