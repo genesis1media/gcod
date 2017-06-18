@@ -424,6 +424,9 @@ h6,
 #msg-box8-p p {
   color: #fff;
 }
+#msg-box8-p .lead {
+  color: #ffffff;
+}
 #gallery3-r .mbr-gallery-item > div > span {
   text-align: center;
   font-size: 12px;

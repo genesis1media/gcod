@@ -39,6 +39,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -66,7 +69,7 @@
             "showButton": false
           },
           "title": "Presidium",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "The Executive Committee of Greater Church of Deliverance",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -233,7 +236,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -246,7 +249,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -411,7 +414,7 @@
           "_anchor": "msg-box8-m",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/13529167-10208755801945879-7915476095425432203-n-2000x2000.jpg",
@@ -429,7 +432,7 @@
             "showButton": false
           },
           "title": "Membership",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>Are you looking for a denomination to be a part of to call home. Consider joining the reformation of the Greater Church of Deliverance. Please fill out our form below and we will be in contact with you.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -449,7 +452,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">Are you looking for a denomination to be a part of to call home. Consider joining the reformation of the <b>Greater Church of Deliverance</b>. Please fill out our form below and we will be in contact with you.&nbsp;</span></blockquote>"
+          "text": "<blockquote><p><span style=\"font-style: normal;\">The Greater Church of Deliverance, Incorporated has been through many transitions, but it stands today as one of the premiere reformations within the Pentecostal-Episcopal tradition. In 2014, the Lord allowed Bishop Freddie B. Marshall and the CCCOD family to move to their current worship facility located at 2318 Cragmore Road, Winston Salem, NC. <b>Christ Cathedral Church of Deliverance</b> is the headquarters of the <b>Greater Church of Deliverance, Inc.</b> with affiliate churches thriving throughout the continental United States and Africa. With the vision still at work, Bishop Doctor Freddie Bernard Marshall and the ministry consistently continue to experience fresh winds of growth and expansion. &nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Are you looking for a denomination to be a part of to call home. Consider joining the reformation of the <b>Greater Church of Deliverance</b>. Please fill out our form below and we will be in contact with you.&nbsp;</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -536,7 +539,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -549,7 +552,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -861,7 +864,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -874,7 +877,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -1178,7 +1181,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1191,7 +1194,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
@@ -1739,7 +1742,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2013,7 +2016,7 @@
               "family": "et-line"
             }
           },
-          "text3": "2318 Cragmire Rd, Winston Salem, SC",
+          "text3": "2318 Cragmire Rd, Winston Salem, NC",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2026,7 +2029,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo.gcod@gmail.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"Presidium.html\">Presidium</a></li><li><a href=\"Membership.html\">Membership</a></li><li><a href=\"Upcoming.html\">Upcoming</a></li><li><a href=\"Giving.html\">Giving</a></li><li><a href=\"https://www.facebook.com/Greater-Church-of-Deliverance-Inc-GCOD-221756297881409/\" target=\"_blank\">Facebook</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, SC<br>",
+          "text6": "<strong>Contacts</strong><br>Email: info.gcod@gmail.com<br>Phone: 336.727.3253<br><br><strong>Address</strong><br>2318 Cragmire Rd, Winston Salem, NC<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kareyheyward@gmail.com",
